@@ -4,7 +4,7 @@
 #include "Fauna.h"
 #include <string>
 
-class omnivore:public fauna
+class omnivore
 {
 	public:
 
